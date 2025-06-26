@@ -1,5 +1,12 @@
 import React, { useState } from 'react';
-import { View, Text, Image, Button, StyleSheet, TouchableOpacity } from 'react-native';
+import {
+  View,
+  Text,
+  Image,
+  StyleSheet,
+  TouchableOpacity,
+  ScrollView,
+} from 'react-native';
 import { RouteProp, useRoute, useNavigation } from '@react-navigation/native';
 import { useBooking } from '../context/BookingContext';
 
@@ -42,40 +49,102 @@ export default function EventDetailScreen() {
   };
 
   return (
-    <View style={styles.container}>
+    <ScrollView style={styles.container}>
       <Image source={{ uri: event.image }} style={styles.image} />
-      <Text style={styles.title}>{event.title}</Text>
-      <Text>{event.date} - {event.location}</Text>
-      <Text>Price: ₹ {event.price}</Text>
-      <Text style={styles.description}>{event.description}</Text>
 
-      <View style={styles.counter}>
-        <TouchableOpacity onPress={decrease} style={styles.button}>
-          <Text style={styles.btnText}>–</Text>
-        </TouchableOpacity>
-        <Text style={styles.count}>{count}</Text>
-        <TouchableOpacity onPress={increase} style={styles.button}>
-          <Text style={styles.btnText}>+</Text>
+      <View style={styles.content}>
+        <Text style={styles.title}>{event.title}</Text>
+        <Text style={styles.meta}>{event.date} | {event.location}</Text>
+        <Text style={styles.price}>₹ {event.price}</Text>
+        <Text style={styles.description}>{event.description}</Text>
+
+        <View style={styles.counter}>
+          <TouchableOpacity onPress={decrease} style={styles.counterButton}>
+            <Text style={styles.counterText}>−</Text>
+          </TouchableOpacity>
+          <Text style={styles.count}>{count}</Text>
+          <TouchableOpacity onPress={increase} style={styles.counterButton}>
+            <Text style={styles.counterText}>+</Text>
+          </TouchableOpacity>
+        </View>
+
+        <TouchableOpacity onPress={handleBook} style={styles.bookButton}>
+          <Text style={styles.bookButtonText}>Book {count} Ticket(s)</Text>
         </TouchableOpacity>
       </View>
-
-      <Button title={`Book ${count} Ticket(s)`} onPress={handleBook} />
-    </View>
+    </ScrollView>
   );
 }
 
 const styles = StyleSheet.create({
-  container: { padding: 16 },
-  image: { width: '100%', height: 200, borderRadius: 8 },
-  title: { fontSize: 20, fontWeight: 'bold', marginVertical: 8 },
-  description: { marginVertical: 10 },
-  counter: { flexDirection: 'row', alignItems: 'center', marginVertical: 16 },
-  button: {
-    backgroundColor: '#ddd',
-    padding: 10,
-    borderRadius: 8,
-    marginHorizontal: 10,
+  container: {
+    backgroundColor: '#f8f8f8',
   },
-  btnText: { fontSize: 20 },
-  count: { fontSize: 18, fontWeight: 'bold' },
+  image: {
+    width: '100%',
+    height: 250,
+    borderBottomLeftRadius: 20,
+    borderBottomRightRadius: 20,
+  },
+  content: {
+    padding: 20,
+  },
+  title: {
+    fontSize: 22,
+    fontWeight: 'bold',
+    marginBottom: 6,
+    color: '#222',
+  },
+  meta: {
+    fontSize: 14,
+    color: '#666',
+    marginBottom: 10,
+  },
+  price: {
+    fontSize: 16,
+    color: '#000',
+    fontWeight: '600',
+    marginBottom: 16,
+  },
+  description: {
+    fontSize: 15,
+    lineHeight: 22,
+    color: '#444',
+    marginBottom: 20,
+  },
+  counter: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'center',
+    marginBottom: 30,
+  },
+  counterButton: {
+    backgroundColor: '#ddd',
+    width: 40,
+    height: 40,
+    borderRadius: 20,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  counterText: {
+    fontSize: 24,
+    fontWeight: '600',
+  },
+  count: {
+    marginHorizontal: 20,
+    fontSize: 20,
+    fontWeight: 'bold',
+    color: '#333',
+  },
+  bookButton: {
+    backgroundColor: '#007bff',
+    paddingVertical: 14,
+    borderRadius: 10,
+    alignItems: 'center',
+  },
+  bookButtonText: {
+    color: '#fff',
+    fontSize: 16,
+    fontWeight: 'bold',
+  },
 });
