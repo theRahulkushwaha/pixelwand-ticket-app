@@ -1,0 +1,454 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title": "Rock Concert",
+      "date": "2025-07-10",
+      "location": "Mumbai",
+      "price": 500,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/rock_concert.jpg",
+      "description": "An amazing rock music event."
+    },
+    {
+      "id": "2",
+      "title": "Tech Conference",
+      "date": "2025-08-01",
+      "location": "Bangalore",
+      "price": 250,
+      "image": "https://via.placeholder.com/300x200",
+      "description": "Annual developer meetup with top speakers."
+    },
+    {
+      "id": "3",
+      "title": "Jazz Night",
+      "date": "2025-07-15",
+      "location": "Delhi",
+      "price": 400,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/jazz_night.jpg",
+      "description": "Smooth jazz performances all night long."
+    },
+    {
+      "id": "4",
+      "title": "Food Festival",
+      "date": "2025-08-20",
+      "location": "Hyderabad",
+      "price": 150,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/food_fest.jpg",
+      "description": "Taste cuisine from around the world."
+    },
+    {
+      "id": "5",
+      "title": "Art Exhibition",
+      "date": "2025-09-05",
+      "location": "Chennai",
+      "price": 100,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/art_exhibit.jpg",
+      "description": "Contemporary art from local artists."
+    },
+    {
+      "id": "6",
+      "title": "Marathon",
+      "date": "2025-10-12",
+      "location": "Pune",
+      "price": 50,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/marathon.jpg",
+      "description": "Annual city marathon for all fitness levels."
+    },
+    {
+      "id": "7",
+      "title": "Comedy Show",
+      "date": "2025-07-22",
+      "location": "Bangalore",
+      "price": 300,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/comedy_show.jpg",
+      "description": "Stand-up comedy with top performers."
+    },
+    {
+      "id": "8",
+      "title": "Film Festival",
+      "date": "2025-08-15",
+      "location": "Mumbai",
+      "price": 200,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/film_fest.jpg",
+      "description": "International independent films screening."
+    },
+    {
+      "id": "9",
+      "title": "Yoga Retreat",
+      "date": "2025-09-10",
+      "location": "Goa",
+      "price": 350,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/yoga_retreat.jpg",
+      "description": "Weekend wellness and yoga program."
+    },
+    {
+      "id": "10",
+      "title": "Startup Pitch",
+      "date": "2025-10-05",
+      "location": "Hyderabad",
+      "price": 180,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/startup_pitch.jpg",
+      "description": "Emerging startups present to investors."
+    },
+    {
+      "id": "11",
+      "title": "Classical Concert",
+      "date": "2025-11-12",
+      "location": "Delhi",
+      "price": 450,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/classical_concert.jpg",
+      "description": "Traditional Indian classical music performance."
+    },
+    {
+      "id": "12",
+      "title": "Photography Workshop",
+      "date": "2025-07-30",
+      "location": "Bangalore",
+      "price": 220,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/photo_workshop.jpg",
+      "description": "Learn photography from professionals."
+    },
+    {
+      "id": "13",
+      "title": "Wine Tasting",
+      "date": "2025-08-25",
+      "location": "Nashik",
+      "price": 500,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/wine_tasting.jpg",
+      "description": "Sample fine wines from local vineyards."
+    },
+    {
+      "id": "14",
+      "title": "Poetry Slam",
+      "date": "2025-09-18",
+      "location": "Mumbai",
+      "price": 120,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/poetry_slam.jpg",
+      "description": "Competitive performance poetry event."
+    },
+    {
+      "id": "15",
+      "title": "Coding Bootcamp",
+      "date": "2025-10-22",
+      "location": "Pune",
+      "price": 280,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/coding_bootcamp.jpg",
+      "description": "Intensive programming workshop."
+    },
+    {
+      "id": "16",
+      "title": "Fashion Show",
+      "date": "2025-11-05",
+      "location": "Delhi",
+      "price": 400,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/fashion_show.jpg",
+      "description": "Latest trends from top designers."
+    },
+    {
+      "id": "17",
+      "title": "Science Fair",
+      "date": "2025-12-10",
+      "location": "Bangalore",
+      "price": 80,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/science_fair.jpg",
+      "description": "Interactive science exhibits for all ages."
+    },
+    {
+      "id": "18",
+      "title": "Dance Competition",
+      "date": "2025-07-28",
+      "location": "Kolkata",
+      "price": 200,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/dance_comp.jpg",
+      "description": "Regional dance teams compete for prizes."
+    },
+    {
+      "id": "19",
+      "title": "Business Summit",
+      "date": "2025-08-18",
+      "location": "Mumbai",
+      "price": 600,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/business_summit.jpg",
+      "description": "Networking and talks from industry leaders."
+    },
+    {
+      "id": "20",
+      "title": "Magic Show",
+      "date": "2025-09-22",
+      "location": "Chennai",
+      "price": 180,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/magic_show.jpg",
+      "description": "Illusions and magic tricks for all ages."
+    },
+    {
+      "id": "21",
+      "title": "Book Fair",
+      "date": "2025-10-15",
+      "location": "Delhi",
+      "price": 50,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/book_fair.jpg",
+      "description": "Thousands of titles from publishers nationwide."
+    },
+    {
+      "id": "22",
+      "title": "Hackathon",
+      "date": "2025-11-20",
+      "location": "Bangalore",
+      "price": 150,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/hackathon.jpg",
+      "description": "48-hour coding competition with prizes."
+    },
+    {
+      "id": "23",
+      "title": "Beer Festival",
+      "date": "2025-12-05",
+      "location": "Goa",
+      "price": 300,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/beer_fest.jpg",
+      "description": "Craft beers from local and international breweries."
+    },
+    {
+      "id": "24",
+      "title": "TedX Talks",
+      "date": "2025-07-25",
+      "location": "Hyderabad",
+      "price": 350,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tedx_talks.jpg",
+      "description": "Inspiring talks from thought leaders."
+    },
+    {
+      "id": "25",
+      "title": "Cooking Class",
+      "date": "2025-08-30",
+      "location": "Pune",
+      "price": 280,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/cooking_class.jpg",
+      "description": "Learn gourmet cooking techniques."
+    },
+    {
+      "id": "26",
+      "title": "Astronomy Night",
+      "date": "2025-09-28",
+      "location": "Bangalore",
+      "price": 120,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/astronomy_night.jpg",
+      "description": "Stargazing with professional telescopes."
+    },
+    {
+      "id": "27",
+      "title": "Flea Market",
+      "date": "2025-10-18",
+      "location": "Mumbai",
+      "price": 20,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/flea_market.jpg",
+      "description": "Vintage and handmade goods from local vendors."
+    },
+    {
+      "id": "28",
+      "title": "Kite Festival",
+      "date": "2025-11-15",
+      "location": "Ahmedabad",
+      "price": 60,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/kite_fest.jpg",
+      "description": "Colorful kites fill the sky in this annual tradition."
+    },
+    {
+      "id": "29",
+      "title": "VR Expo",
+      "date": "2025-12-12",
+      "location": "Bangalore",
+      "price": 220,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/vr_expo.jpg",
+      "description": "Experience the latest in virtual reality technology."
+    },
+    {
+      "id": "30",
+      "title": "Silent Disco",
+      "date": "2025-07-20",
+      "location": "Goa",
+      "price": 250,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/silent_disco.jpg",
+      "description": "Dance to music through wireless headphones."
+    },
+    {
+      "id": "31",
+      "title": "Pottery Workshop",
+      "date": "2025-08-22",
+      "location": "Delhi",
+      "price": 180,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/pottery_workshop.jpg",
+      "description": "Hands-on clay throwing and glazing."
+    },
+    {
+      "id": "32",
+      "title": "Bollywood Night",
+      "date": "2025-09-30",
+      "location": "Mumbai",
+      "price": 350,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/bollywood_night.jpg",
+      "description": "Dance to classic and contemporary Bollywood hits."
+    },
+    {
+      "id": "33",
+      "title": "Cycling Tour",
+      "date": "2025-10-25",
+      "location": "Pune",
+      "price": 90,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/cycling_tour.jpg",
+      "description": "Guided bike tour of the city's landmarks."
+    },
+    {
+      "id": "34",
+      "title": "Chess Tournament",
+      "date": "2025-11-18",
+      "location": "Chennai",
+      "price": 100,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/chess_tournament.jpg",
+      "description": "Competitive chess for all skill levels."
+    },
+    {
+      "id": "35",
+      "title": "Meditation Retreat",
+      "date": "2025-12-15",
+      "location": "Rishikesh",
+      "price": 400,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/meditation_retreat.jpg",
+      "description": "Weekend of mindfulness and relaxation."
+    },
+    {
+      "id": "36",
+      "title": "AI Conference",
+      "date": "2025-07-18",
+      "location": "Bangalore",
+      "price": 450,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/ai_conference.jpg",
+      "description": "Latest developments in artificial intelligence."
+    },
+    {
+      "id": "37",
+      "title": "Salsa Night",
+      "date": "2025-08-28",
+      "location": "Delhi",
+      "price": 200,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/salsa_night.jpg",
+      "description": "Latin dance party with professional instructors."
+    },
+    {
+      "id": "38",
+      "title": "Farmers Market",
+      "date": "2025-09-25",
+      "location": "Bangalore",
+      "price": 0,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/farmers_market.jpg",
+      "description": "Fresh local produce and artisanal foods."
+    },
+    {
+      "id": "39",
+      "title": "Horror Film Screening",
+      "date": "2025-10-30",
+      "location": "Mumbai",
+      "price": 150,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/horror_films.jpg",
+      "description": "Classic horror movies on the big screen."
+    },
+    {
+      "id": "40",
+      "title": "Robotics Expo",
+      "date": "2025-11-22",
+      "location": "Hyderabad",
+      "price": 180,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/robotics_expo.jpg",
+      "description": "Cutting-edge robotics demonstrations."
+    },
+    {
+      "id": "41",
+      "title": "Karaoke Night",
+      "date": "2025-12-20",
+      "location": "Goa",
+      "price": 120,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/karaoke_night.jpg",
+      "description": "Sing your favorite songs with friends."
+    },
+    {
+      "id": "42",
+      "title": "Mountain Trek",
+      "date": "2025-07-12",
+      "location": "Himachal Pradesh",
+      "price": 350,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/trekking.jpg",
+      "description": "Guided trek through scenic mountain trails."
+    },
+    {
+      "id": "43",
+      "title": "Blockchain Workshop",
+      "date": "2025-08-14",
+      "location": "Bangalore",
+      "price": 300,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/blockchain_workshop.jpg",
+      "description": "Introduction to blockchain technology."
+    },
+    {
+      "id": "44",
+      "title": "Zumba Class",
+      "date": "2025-09-15",
+      "location": "Mumbai",
+      "price": 150,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/zumba_class.jpg",
+      "description": "High-energy dance fitness workout."
+    },
+    {
+      "id": "45",
+      "title": "Heritage Walk",
+      "date": "2025-10-08",
+      "location": "Delhi",
+      "price": 80,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/heritage_walk.jpg",
+      "description": "Guided tour of historical landmarks."
+    },
+    {
+      "id": "46",
+      "title": "Mixology Class",
+      "date": "2025-11-25",
+      "location": "Bangalore",
+      "price": 400,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/mixology_class.jpg",
+      "description": "Learn to craft creative cocktails."
+    },
+    {
+      "id": "47",
+      "title": "Puppet Show",
+      "date": "2025-12-18",
+      "location": "Chennai",
+      "price": 60,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/puppet_show.jpg",
+      "description": "Traditional puppet theater for children."
+    },
+    {
+      "id": "48",
+      "title": "Gaming Tournament",
+      "date": "2025-07-30",
+      "location": "Hyderabad",
+      "price": 200,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/gaming_tournament.jpg",
+      "description": "Competitive eSports event with cash prizes."
+    },
+    {
+      "id": "49",
+      "title": "Safari Tour",
+      "date": "2025-08-05",
+      "location": "Madhya Pradesh",
+      "price": 500,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/safari_tour.jpg",
+      "description": "Wildlife spotting in national parks."
+    },
+    {
+      "id": "50",
+      "title": "Ice Skating",
+      "date": "2025-09-20",
+      "location": "Mumbai",
+      "price": 220,
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/ice_skating.jpg",
+      "description": "Indoor ice skating for all skill levels."
+    }
+  ]
+}
