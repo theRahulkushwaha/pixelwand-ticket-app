@@ -73,14 +73,15 @@ export default function EventDetailScreen() {
             <Text style={styles.counterText}>+</Text>
           </TouchableOpacity>
         </View>
+        
+        <TouchableOpacity onPress={goToSeatSelection} style={styles.seatButton}>
+          <Text style={styles.seatButtonText}>Select Seats</Text>
+        </TouchableOpacity>
 
         <TouchableOpacity onPress={handleBook} style={styles.bookButton}>
           <Text style={styles.bookButtonText}>Book {count} Ticket(s)</Text>
         </TouchableOpacity>
 
-        <TouchableOpacity onPress={goToSeatSelection} style={styles.seatButton}>
-          <Text style={styles.seatButtonText}>Select Seats</Text>
-        </TouchableOpacity>
       </View>
     </ScrollView>
   );
@@ -88,7 +89,7 @@ export default function EventDetailScreen() {
 
 const styles = StyleSheet.create({
   container: {
-    backgroundColor: '#f8f8f8',
+    backgroundColor: "#000000",
   },
   image: {
     width: '100%',
@@ -103,23 +104,23 @@ const styles = StyleSheet.create({
     fontSize: 22,
     fontWeight: 'bold',
     marginBottom: 6,
-    color: '#222',
+    color:'#FFFFFF',
   },
   meta: {
     fontSize: 14,
-    color: '#666',
+    color:'#FFFFFF',
     marginBottom: 10,
   },
   price: {
     fontSize: 16,
-    color: '#000',
+    color:'#FFFFFF',
     fontWeight: '600',
     marginBottom: 16,
   },
   description: {
     fontSize: 15,
     lineHeight: 22,
-    color: '#444',
+    color:'#FFFFFF',
     marginBottom: 20,
   },
   counter: {
@@ -139,22 +140,23 @@ const styles = StyleSheet.create({
   counterText: {
     fontSize: 24,
     fontWeight: '600',
+    
   },
   count: {
     marginHorizontal: 20,
     fontSize: 20,
     fontWeight: 'bold',
-    color: '#333',
+    color:'#FFFFFF',
   },
   bookButton: {
-    backgroundColor: '#007bff',
+    backgroundColor: '#c0f740',
     paddingVertical: 14,
     borderRadius: 10,
     alignItems: 'center',
-    marginBottom: 12,
+    
   },
   bookButtonText: {
-    color: '#fff',
+    color: '#000000',
     fontSize: 16,
     fontWeight: 'bold',
   },
@@ -163,6 +165,7 @@ const styles = StyleSheet.create({
     paddingVertical: 14,
     borderRadius: 10,
     alignItems: 'center',
+    marginBottom: 20,
   },
   seatButtonText: {
     color: '#fff',

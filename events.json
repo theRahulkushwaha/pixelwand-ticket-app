@@ -15,7 +15,7 @@
       "date": "2025-08-01",
       "location": "Bangalore",
       "price": 250,
-      "image": "https://in.bookmyshow.com/movies/delhi/kannappa/ET00377025",
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@like_202006280402.png,lx-24,ly-617,w-29,l-end:l-text,ie-MjIySyBMaWtlcw%3D%3D,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end:l-text,ie-UFJPTU9URUQ%3D,co-FFFFFF,bg-DC354B,ff-Roboto,fs-20,lx-N16,ly-12,lfo-top_right,pa-12_14_12_14,r-6,l-end/et00377025-ufnjbeqhxd-portrait.jpg",
       "description": "The movie depicts the folk tale of Kannappa, an atheist hunter who became a devotee of Lord Shiva and plucked out his eyes in an act of devotion."
     },
     {
@@ -24,7 +24,7 @@
       "date": "2025-07-15",
       "location": "Delhi",
       "price": 400,
-      "image": "https://in.bookmyshow.com/movies/delhi/sitaare-zameen-par/ET00444869",
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@star-icon-202203010609.png,lx-24,ly-615,w-29,l-end:l-text,ie-OC42LzEwICAzMC40SyBWb3Rlcw%3D%3D,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00444869-rexavyudly-portrait.jpg",
       "description": "Sitaare Zameen Par is an entertaining and heartwarming film filled with joy, laughter, and happiness. It follows Gulshan, a smug basketball coach sentenced to community service after a drunk driving incident. Assigned to train a team of Neurodivergent adults, he starts off with prejudice and condescension-only to discover that they`re the ones teaching him how to truly live."
     },
     {
@@ -47,408 +47,139 @@
     },
     {
       "id": "6",
-      "title": "Marathon",
+      "title": "M3GAN 2.0",
       "date": "2025-10-12",
       "location": "Pune",
       "price": 50,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/marathon.jpg",
-      "description": "Annual city marathon for all fitness levels."
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@like_202006280402.png,lx-24,ly-617,w-29,l-end:l-text,ie-MjEuMksgTGlrZXM%3D,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00432076-kcuxbrdrcn-portrait.jpg",
+      "description": "Two years after M3GAN's rampage, her creator Gemma resorts to resurrecting her infamous creation to take down Amelia, the military-grade weapon that was built by a defence contractor who stole M3GAN's underlying tech."
     },
     {
       "id": "7",
-      "title": "Comedy Show",
+      "title": "Materialists",
       "date": "2025-07-22",
       "location": "Bangalore",
       "price": 300,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/comedy_show.jpg",
-      "description": "Stand-up comedy with top performers."
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@star-icon-202203010609.png,lx-24,ly-615,w-29,l-end:l-text,ie-Ny41LzEwICA2LjFLIFZvdGVz,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00438590-yqrlyglebv-portrait.jpg",
+      "description": "A matchmaker's lucrative business is complicated when she falls into a toxic love triangle that threatens her clients."
     },
     {
       "id": "8",
-      "title": "Film Festival",
+      "title": "28 Years Later",
       "date": "2025-08-15",
       "location": "Mumbai",
       "price": 200,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/film_fest.jpg",
-      "description": "International independent films screening."
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@star-icon-202203010609.png,lx-24,ly-615,w-29,l-end:l-text,ie-Ny45LzEwICAzLjJLIFZvdGVz,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00423688-befztfazva-portrait.jpg",
+      "description": "A group of survivors of the rage virus lives on a small island. When one of the group leaves the island on a mission into the mainland, he discovers secrets, wonders, and horrors that have mutated not only the infected but other survivors."
     },
     {
       "id": "9",
-      "title": "Yoga Retreat",
+      "title": "Mr & Mrs 420 Again",
       "date": "2025-09-10",
       "location": "Goa",
       "price": 350,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/yoga_retreat.jpg",
-      "description": "Weekend wellness and yoga program."
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@like_202006280402.png,lx-24,ly-617,w-29,l-end:l-text,ie-OS4ySyBMaWtlcw%3D%3D,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00447514-pkebcwrket-portrait.jpg",
+      "description": "Balli, a quirky film director, is in search of a surrogate mother. Meanwhile, Jass, a struggling actor, lands a role as Reshma, an item girl, while Jagga, on the run from an MLA, transforms into Jugni. Chaos erupts when Balli chooses Reshma for surrogacy, but his wife unknowingly picks Jugni. What follows is a laugh-out-loud rollercoaster as both Reshma and Jugni compete to prove whos the better choice, sparking confusion, comedy, and non-stop drama."
     },
     {
       "id": "10",
-      "title": "Startup Pitch",
+      "title": "Mission: Impossible - The Final Reckoning",
       "date": "2025-10-05",
       "location": "Hyderabad",
       "price": 180,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/startup_pitch.jpg",
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@star-icon-202203010609.png,lx-24,ly-615,w-29,l-end:l-text,ie-OC42LzEwICA4My4zSyBWb3Rlcw%3D%3D,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00419530-hnbhjgrrnp-portrait.jpg",
       "description": "Emerging startups present to investors."
     },
     {
       "id": "11",
-      "title": "Classical Concert",
+      "title": "karate kid",
       "date": "2025-11-12",
       "location": "Delhi",
       "price": 450,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/classical_concert.jpg",
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@star-icon-202203010609.png,lx-24,ly-615,w-29,l-end:l-text,ie-OC8xMCAgN0sgVm90ZXM%3D,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00383498-nbhstjzasf-portrait.jpg",
       "description": "Traditional Indian classical music performance."
     },
     {
       "id": "12",
-      "title": "Photography Workshop",
+      "title": "Elio",
       "date": "2025-07-30",
       "location": "Bangalore",
       "price": 220,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/photo_workshop.jpg",
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@star-icon-202203010609.png,lx-24,ly-615,w-29,l-end:l-text,ie-OC44LzEwICA4NDggVm90ZXM%3D,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00421158-mrbqfcszsw-portrait.jpg",
       "description": "Learn photography from professionals."
     },
     {
       "id": "13",
-      "title": "Wine Tasting",
+      "title": "Naruto",
       "date": "2025-08-25",
       "location": "Nashik",
       "price": 500,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/wine_tasting.jpg",
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@like_202006280402.png,lx-24,ly-617,w-29,l-end:l-text,ie-MjMuOUsgTGlrZXM%3D,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00445248-ucxgjhqqcb-portrait.jpg",
       "description": "Sample fine wines from local vineyards."
     },
     {
       "id": "14",
-      "title": "Poetry Slam",
+      "title": "The Phoenician Scheme",
       "date": "2025-09-18",
       "location": "Mumbai",
       "price": 120,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/poetry_slam.jpg",
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@star-icon-202203010609.png,lx-24,ly-615,w-29,l-end:l-text,ie-Ny44LzEwICAyNzEgVm90ZXM%3D,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00444358-nfmqgwfxec-portrait.jpg",
       "description": "Competitive performance poetry event."
     },
     {
       "id": "15",
-      "title": "Coding Bootcamp",
+      "title": "Well done",
       "date": "2025-10-22",
       "location": "Pune",
       "price": 280,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/coding_bootcamp.jpg",
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@like_202006280402.png,lx-24,ly-617,w-29,l-end:l-text,ie-Mi4zSyBMaWtlcw%3D%3D,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00449096-jleqvrytfk-portrait.jpg",
       "description": "Intensive programming workshop."
     },
     {
       "id": "16",
-      "title": "Fashion Show",
+      "title": "Raid 2",
       "date": "2025-11-05",
       "location": "Delhi",
       "price": 400,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/fashion_show.jpg",
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@star-icon-202203010609.png,lx-24,ly-615,w-29,l-end:l-text,ie-OC4zLzEwICA3OC42SyBWb3Rlcw%3D%3D,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00382745-apbdhamvmt-portrait.jpg",
       "description": "Latest trends from top designers."
     },
     {
       "id": "17",
-      "title": "Science Fair",
+      "title": "Umrao jaan",
       "date": "2025-12-10",
       "location": "Bangalore",
       "price": 80,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/science_fair.jpg",
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@star-icon-202203010609.png,lx-24,ly-615,w-29,l-end:l-text,ie-LS0gIE5vdCBSYXRlZA%3D%3D,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00450639-kjrbrcumyk-portrait.jpg",
       "description": "Interactive science exhibits for all ages."
     },
     {
       "id": "18",
-      "title": "Dance Competition",
+      "title": "War",
       "date": "2025-07-28",
       "location": "Kolkata",
       "price": 200,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/dance_comp.jpg",
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@star-icon-202203010609.png,lx-24,ly-615,w-29,l-end:l-text,ie-Ny42LzEwICAzNTAuOUsgVm90ZXM%3D,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00107162-sbbpkjcaxp-portrait.jpg",
       "description": "Regional dance teams compete for prizes."
     },
     {
       "id": "19",
-      "title": "Business Summit",
+      "title": "Kuberaa",
       "date": "2025-08-18",
       "location": "Mumbai",
       "price": 600,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/business_summit.jpg",
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@star-icon-202203010609.png,lx-24,ly-615,w-29,l-end:l-text,ie-OC41LzEwICA1Ni43SyBWb3Rlcw%3D%3D,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00390532-qamsrplmga-portrait.jpg",
       "description": "Networking and talks from industry leaders."
     },
     {
       "id": "20",
-      "title": "Magic Show",
+      "title": "Shinchan",
       "date": "2025-09-22",
       "location": "Chennai",
       "price": 180,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/magic_show.jpg",
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@star-icon-202203010609.png,lx-24,ly-615,w-29,l-end:l-text,ie-OC44LzEwICA1LjhLIFZvdGVz,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00439369-yzjqdhyrde-portrait.jpg",
       "description": "Illusions and magic tricks for all ages."
-    },
-    {
-      "id": "21",
-      "title": "Book Fair",
-      "date": "2025-10-15",
-      "location": "Delhi",
-      "price": 50,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/book_fair.jpg",
-      "description": "Thousands of titles from publishers nationwide."
-    },
-    {
-      "id": "22",
-      "title": "Hackathon",
-      "date": "2025-11-20",
-      "location": "Bangalore",
-      "price": 150,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/hackathon.jpg",
-      "description": "48-hour coding competition with prizes."
-    },
-    {
-      "id": "23",
-      "title": "Beer Festival",
-      "date": "2025-12-05",
-      "location": "Goa",
-      "price": 300,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/beer_fest.jpg",
-      "description": "Craft beers from local and international breweries."
-    },
-    {
-      "id": "24",
-      "title": "TedX Talks",
-      "date": "2025-07-25",
-      "location": "Hyderabad",
-      "price": 350,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tedx_talks.jpg",
-      "description": "Inspiring talks from thought leaders."
-    },
-    {
-      "id": "25",
-      "title": "Cooking Class",
-      "date": "2025-08-30",
-      "location": "Pune",
-      "price": 280,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/cooking_class.jpg",
-      "description": "Learn gourmet cooking techniques."
-    },
-    {
-      "id": "26",
-      "title": "Astronomy Night",
-      "date": "2025-09-28",
-      "location": "Bangalore",
-      "price": 120,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/astronomy_night.jpg",
-      "description": "Stargazing with professional telescopes."
-    },
-    {
-      "id": "27",
-      "title": "Flea Market",
-      "date": "2025-10-18",
-      "location": "Mumbai",
-      "price": 20,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/flea_market.jpg",
-      "description": "Vintage and handmade goods from local vendors."
-    },
-    {
-      "id": "28",
-      "title": "Kite Festival",
-      "date": "2025-11-15",
-      "location": "Ahmedabad",
-      "price": 60,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/kite_fest.jpg",
-      "description": "Colorful kites fill the sky in this annual tradition."
-    },
-    {
-      "id": "29",
-      "title": "VR Expo",
-      "date": "2025-12-12",
-      "location": "Bangalore",
-      "price": 220,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/vr_expo.jpg",
-      "description": "Experience the latest in virtual reality technology."
-    },
-    {
-      "id": "30",
-      "title": "Silent Disco",
-      "date": "2025-07-20",
-      "location": "Goa",
-      "price": 250,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/silent_disco.jpg",
-      "description": "Dance to music through wireless headphones."
-    },
-    {
-      "id": "31",
-      "title": "Pottery Workshop",
-      "date": "2025-08-22",
-      "location": "Delhi",
-      "price": 180,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/pottery_workshop.jpg",
-      "description": "Hands-on clay throwing and glazing."
-    },
-    {
-      "id": "32",
-      "title": "Bollywood Night",
-      "date": "2025-09-30",
-      "location": "Mumbai",
-      "price": 350,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/bollywood_night.jpg",
-      "description": "Dance to classic and contemporary Bollywood hits."
-    },
-    {
-      "id": "33",
-      "title": "Cycling Tour",
-      "date": "2025-10-25",
-      "location": "Pune",
-      "price": 90,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/cycling_tour.jpg",
-      "description": "Guided bike tour of the city's landmarks."
-    },
-    {
-      "id": "34",
-      "title": "Chess Tournament",
-      "date": "2025-11-18",
-      "location": "Chennai",
-      "price": 100,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/chess_tournament.jpg",
-      "description": "Competitive chess for all skill levels."
-    },
-    {
-      "id": "35",
-      "title": "Meditation Retreat",
-      "date": "2025-12-15",
-      "location": "Rishikesh",
-      "price": 400,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/meditation_retreat.jpg",
-      "description": "Weekend of mindfulness and relaxation."
-    },
-    {
-      "id": "36",
-      "title": "AI Conference",
-      "date": "2025-07-18",
-      "location": "Bangalore",
-      "price": 450,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/ai_conference.jpg",
-      "description": "Latest developments in artificial intelligence."
-    },
-    {
-      "id": "37",
-      "title": "Salsa Night",
-      "date": "2025-08-28",
-      "location": "Delhi",
-      "price": 200,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/salsa_night.jpg",
-      "description": "Latin dance party with professional instructors."
-    },
-    {
-      "id": "38",
-      "title": "Farmers Market",
-      "date": "2025-09-25",
-      "location": "Bangalore",
-      "price": 0,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/farmers_market.jpg",
-      "description": "Fresh local produce and artisanal foods."
-    },
-    {
-      "id": "39",
-      "title": "Horror Film Screening",
-      "date": "2025-10-30",
-      "location": "Mumbai",
-      "price": 150,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/horror_films.jpg",
-      "description": "Classic horror movies on the big screen."
-    },
-    {
-      "id": "40",
-      "title": "Robotics Expo",
-      "date": "2025-11-22",
-      "location": "Hyderabad",
-      "price": 180,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/robotics_expo.jpg",
-      "description": "Cutting-edge robotics demonstrations."
-    },
-    {
-      "id": "41",
-      "title": "Karaoke Night",
-      "date": "2025-12-20",
-      "location": "Goa",
-      "price": 120,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/karaoke_night.jpg",
-      "description": "Sing your favorite songs with friends."
-    },
-    {
-      "id": "42",
-      "title": "Mountain Trek",
-      "date": "2025-07-12",
-      "location": "Himachal Pradesh",
-      "price": 350,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/trekking.jpg",
-      "description": "Guided trek through scenic mountain trails."
-    },
-    {
-      "id": "43",
-      "title": "Blockchain Workshop",
-      "date": "2025-08-14",
-      "location": "Bangalore",
-      "price": 300,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/blockchain_workshop.jpg",
-      "description": "Introduction to blockchain technology."
-    },
-    {
-      "id": "44",
-      "title": "Zumba Class",
-      "date": "2025-09-15",
-      "location": "Mumbai",
-      "price": 150,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/zumba_class.jpg",
-      "description": "High-energy dance fitness workout."
-    },
-    {
-      "id": "45",
-      "title": "Heritage Walk",
-      "date": "2025-10-08",
-      "location": "Delhi",
-      "price": 80,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/heritage_walk.jpg",
-      "description": "Guided tour of historical landmarks."
-    },
-    {
-      "id": "46",
-      "title": "Mixology Class",
-      "date": "2025-11-25",
-      "location": "Bangalore",
-      "price": 400,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/mixology_class.jpg",
-      "description": "Learn to craft creative cocktails."
-    },
-    {
-      "id": "47",
-      "title": "Puppet Show",
-      "date": "2025-12-18",
-      "location": "Chennai",
-      "price": 60,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/puppet_show.jpg",
-      "description": "Traditional puppet theater for children."
-    },
-    {
-      "id": "48",
-      "title": "Gaming Tournament",
-      "date": "2025-07-30",
-      "location": "Hyderabad",
-      "price": 200,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/gaming_tournament.jpg",
-      "description": "Competitive eSports event with cash prizes."
-    },
-    {
-      "id": "49",
-      "title": "Safari Tour",
-      "date": "2025-08-05",
-      "location": "Madhya Pradesh",
-      "price": 500,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/safari_tour.jpg",
-      "description": "Wildlife spotting in national parks."
-    },
-    {
-      "id": "50",
-      "title": "Ice Skating",
-      "date": "2025-09-20",
-      "location": "Mumbai",
-      "price": 220,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/ice_skating.jpg",
-      "description": "Indoor ice skating for all skill levels."
     }
+    
   ]
 }

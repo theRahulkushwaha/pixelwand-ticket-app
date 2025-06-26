@@ -70,36 +70,38 @@ const styles = StyleSheet.create({
   container: {
     padding: 16,
     alignItems: 'center',
+    backgroundColor: '#000000',
+    height:'100%'
   },
   title: {
     fontSize: 22,
     fontWeight: 'bold',
+    color: '#f3f3f3',
     marginBottom: 20,
   },
   grid: {
     flexDirection: 'row',
     flexWrap: 'wrap',
     justifyContent: 'center',
-    gap: 10,
   },
   seat: {
     width: 60,
     height: 60,
-    backgroundColor: '#ccc',
+    backgroundColor: '#222222',
     borderRadius: 8,
     alignItems: 'center',
     justifyContent: 'center',
-    margin: 5,
+    margin: 6,
   },
   selectedSeat: {
-    backgroundColor: '#007bff',
+    backgroundColor: '#c0f740',
   },
   seatText: {
-    color: '#fff',
+    color: '#000',
     fontWeight: '600',
   },
   confirmButton: {
-    backgroundColor: '#28a745',
+    backgroundColor: '#c0f740',
     padding: 14,
     borderRadius: 10,
     marginTop: 30,
@@ -107,7 +109,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   confirmButtonText: {
-    color: '#fff',
+    color: '#000',
     fontWeight: 'bold',
     fontSize: 16,
   },
