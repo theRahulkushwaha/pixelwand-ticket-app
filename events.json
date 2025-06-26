@@ -2,48 +2,48 @@
   "events": [
     {
       "id": "1",
-      "title": "Rock Concert",
+      "title": "Maa",
       "date": "2025-07-10",
       "location": "Mumbai",
       "price": 500,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/rock_concert.jpg",
-      "description": "An amazing rock music event."
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/et00437726-hdcfpuegmc-portrait.jpg",
+      "description": "The story of a mother who becomes Kali to end a demonic curse rooted in fear, blood, and betrayal."
     },
     {
       "id": "2",
-      "title": "Tech Conference",
+      "title": "Kannappa",
       "date": "2025-08-01",
       "location": "Bangalore",
       "price": 250,
-      "image": "https://via.placeholder.com/300x200",
-      "description": "Annual developer meetup with top speakers."
+      "image": "https://in.bookmyshow.com/movies/delhi/kannappa/ET00377025",
+      "description": "The movie depicts the folk tale of Kannappa, an atheist hunter who became a devotee of Lord Shiva and plucked out his eyes in an act of devotion."
     },
     {
       "id": "3",
-      "title": "Jazz Night",
+      "title": "Sitaare Zameen Par",
       "date": "2025-07-15",
       "location": "Delhi",
       "price": 400,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/jazz_night.jpg",
-      "description": "Smooth jazz performances all night long."
+      "image": "https://in.bookmyshow.com/movies/delhi/sitaare-zameen-par/ET00444869",
+      "description": "Sitaare Zameen Par is an entertaining and heartwarming film filled with joy, laughter, and happiness. It follows Gulshan, a smug basketball coach sentenced to community service after a drunk driving incident. Assigned to train a team of Neurodivergent adults, he starts off with prejudice and condescension-only to discover that they`re the ones teaching him how to truly live."
     },
     {
       "id": "4",
-      "title": "Food Festival",
+      "title": "F1: The Movie",
       "date": "2025-08-20",
       "location": "Hyderabad",
       "price": 150,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/food_fest.jpg",
-      "description": "Taste cuisine from around the world."
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@like_202006280402.png,lx-24,ly-617,w-29,l-end:l-text,ie-MTI5LjFLIExpa2Vz,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00403839-vempbcnzla-portrait.jpg",
+      "description": "Sonny Hayes (Brad Pitt) was FORMULA 1`s most promising phenom of the 1990s until an accident on the track nearly ended his career. Thirty years later, he`s a nomadic racer-for-hire when he`s approached by his former teammate Ruben Cervantes (Javier Bardem), owner of a struggling FORMULA 1 team that is on the verge of collapse."
     },
     {
       "id": "5",
-      "title": "Art Exhibition",
+      "title": "Housefull 5",
       "date": "2025-09-05",
       "location": "Chennai",
       "price": 100,
-      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/art_exhibit.jpg",
-      "description": "Contemporary art from local artists."
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@star-icon-202203010609.png,lx-24,ly-615,w-29,l-end:l-text,ie-Ni4xLzEwICA1NC41SyBWb3Rlcw%3D%3D,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00363347-zkcwuwlvpr-portrait.jpg",
+      "description": "India`s Biggest Franchise is back with the 5th instalment, and this time it is not just chaos and comedy.... But a KILLER Comedy with two different climaxes. Which one will you choose - Housefull 5A or Housefull 5B?"
     },
     {
       "id": "6",

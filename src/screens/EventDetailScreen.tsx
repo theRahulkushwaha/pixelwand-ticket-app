@@ -48,13 +48,19 @@ export default function EventDetailScreen() {
     navigation.navigate('Bookings');
   };
 
+  const goToSeatSelection = () => {
+    navigation.navigate('SeatSelection', { event });
+  };
+
   return (
     <ScrollView style={styles.container}>
       <Image source={{ uri: event.image }} style={styles.image} />
 
       <View style={styles.content}>
         <Text style={styles.title}>{event.title}</Text>
-        <Text style={styles.meta}>{event.date} | {event.location}</Text>
+        <Text style={styles.meta}>
+          {event.date} | {event.location}
+        </Text>
         <Text style={styles.price}>₹ {event.price}</Text>
         <Text style={styles.description}>{event.description}</Text>
 
@@ -70,6 +76,10 @@ export default function EventDetailScreen() {
 
         <TouchableOpacity onPress={handleBook} style={styles.bookButton}>
           <Text style={styles.bookButtonText}>Book {count} Ticket(s)</Text>
+        </TouchableOpacity>
+
+        <TouchableOpacity onPress={goToSeatSelection} style={styles.seatButton}>
+          <Text style={styles.seatButtonText}>Select Seats</Text>
         </TouchableOpacity>
       </View>
     </ScrollView>
@@ -116,7 +126,7 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     justifyContent: 'center',
-    marginBottom: 30,
+    marginBottom: 20,
   },
   counterButton: {
     backgroundColor: '#ddd',
@@ -141,8 +151,20 @@ const styles = StyleSheet.create({
     paddingVertical: 14,
     borderRadius: 10,
     alignItems: 'center',
+    marginBottom: 12,
   },
   bookButtonText: {
+    color: '#fff',
+    fontSize: 16,
+    fontWeight: 'bold',
+  },
+  seatButton: {
+    backgroundColor: '#6c63ff',
+    paddingVertical: 14,
+    borderRadius: 10,
+    alignItems: 'center',
+  },
+  seatButtonText: {
     color: '#fff',
     fontSize: 16,
     fontWeight: 'bold',

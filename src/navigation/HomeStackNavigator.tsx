@@ -2,6 +2,8 @@ import React from 'react';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import HomeScreen from '../screens/HomeScreen';
 import EventDetailScreen from '../screens/EventDetailScreen';
+import SeatSelectionScreen from '../screens/SeatSelectionScreen';
+
 
 const Stack = createNativeStackNavigator();
 
@@ -10,6 +12,7 @@ export default function HomeStackNavigator() {
     <Stack.Navigator>
       <Stack.Screen name="Home" component={HomeScreen} options={{ headerShown: false }}/>
       <Stack.Screen name="EventDetail" component={EventDetailScreen} options={{ title: 'Event Details', headerShown: false }} />
+      <Stack.Screen name="SeatSelection" component={SeatSelectionScreen} />
     </Stack.Navigator>
   );
 }
